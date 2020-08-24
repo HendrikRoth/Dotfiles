@@ -1,0 +1,7 @@
+basePath=$(dirname $0)
+
+source ${basePath}/global
+source ${basePath}/tools
+source ${basePath}/git
+source ${basePath}/void
+source ${basePath}/global
